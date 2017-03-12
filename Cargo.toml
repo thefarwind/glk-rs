@@ -1,0 +1,10 @@
+[package]
+name = "glk"
+version = "0.1.0"
+authors = ["Bryan E. Barnhart <bryan.e.barnhart@gmail.com>"]
+build = "build.rs"
+
+[dependencies]
+
+[build-dependencies]
+bindgen="^0.21.2"
